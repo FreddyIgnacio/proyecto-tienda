@@ -71,12 +71,12 @@ productList.push({
 productList.push({
     name: "Pantalla",
     price: 150,
-    image: "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    image: "https://acf.geeknetic.es/imgri/imagenes/auto/22/02/17/rqw-windowscolor.jpg?f=webp",
 });
 productList.push({
     name: "CPU",
     price: 320,
-    image: "https://images.pexels.com/photos/276517/pexels-photo-276517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    image: "https://http2.mlstatic.com/D_NQ_NP_781154-MLA45434938966_042021-O.jpg",
 });
 
 for (product of productList){
